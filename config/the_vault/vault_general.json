@@ -202,7 +202,6 @@
 		"minecraft:golden_apple",
 		"create:chute"
 	],
-	"key": "dog is a monkey",
 	"BLOCK_BLACKLIST": [
 		"!minecraft:redstone_ore",
 		"the_vault:animatrix_block",

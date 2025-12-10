@@ -174,6 +174,25 @@
     },
     {
       "modIds": [
+        "integrateddynamics",
+        "integratedterminals",
+        "integratedtunnels"
+      ],
+      "restrictions": {
+        "restricts": {
+          "HITTABILITY": false,
+          "BLOCK_INTERACTABILITY": true,
+          "USABILITY": true,
+          "CRAFTABILITY": true,
+          "ENTITY_INTERACTABILITY": false
+        }
+      },
+      "name": "Integrated Dynamics",
+      "cost": 2,
+      "usesKnowledge": true
+    },
+    {
+      "modIds": [
         "storagedrawers"
       ],
       "restrictions": {
@@ -181,7 +200,7 @@
           "HITTABILITY": false,
           "BLOCK_INTERACTABILITY": false,
           "USABILITY": false,
-          "CRAFTABILITY": true,
+          "CRAFTABILITY": false,
           "ENTITY_INTERACTABILITY": false
         }
       },
@@ -682,13 +701,13 @@
             "CRAFTABILITY": true
           }
         }
+      },
+      "blockRestrictions": {},
+      "entityRestrictions": {},
+      "name": "Iron Generators",
+      "cost": 1,
+      "usesKnowledge": true
     },
-    "blockRestrictions": {},
-    "entityRestrictions": {},
-    "name": "Iron Generators",
-    "cost": 1,
-    "usesKnowledge": true
-  },
 
     {
       "itemRestrictions": {
@@ -1047,9 +1066,9 @@
             "HITTABILITY": true,
             "USABILITY": true,
             "CRAFTABILITY": true
-            }
+          }
         }
-          
+
       },
       "blockRestrictions": {},
       "entityRestrictions": {},
@@ -1064,8 +1083,8 @@
             "HITTABILITY": true,
             "USABILITY": true,
             "CRAFTABILITY": true
-            }
           }
+        }
       },
       "blockRestrictions": {},
       "entityRestrictions": {},
@@ -1080,8 +1099,8 @@
             "HITTABILITY": true,
             "USABILITY": true,
             "CRAFTABILITY": true
-            }
           }
+        }
       },
       "blockRestrictions": {},
       "entityRestrictions": {},
@@ -1171,7 +1190,7 @@
         "the_vault:gear/armor/dank/boots"
       ]
     },
-    
+
     {
       "itemRestrictions": {
       },
@@ -1334,7 +1353,7 @@
         "the_vault:gear/armor/scout/boots"
       ]
     },
-    
+
     {
       "itemRestrictions": {
         "the_vault:vault_harvester": {
