@@ -13957,6 +13957,10 @@ file = "mods/cofh_core-1.18.2-9.2.3.47.jar"
 hash = "e0208bf4524841e0a28c791f070d5d36dfd3d7e61720385bdd24c098046ed38e"
 
 [[files]]
+file = "mods/collective-1.18.2-7.7(1).jar"
+hash = "994753ec9be993bca4ec65342f842d00e4cfa9456875cba31e7b38963aff39aa"
+
+[[files]]
 file = "mods/comforts-forge-1.18.2-5.0.0.6.jar"
 hash = "10da8248a7e9440a84394a4b78410ec6ab85d66f521cfc3f87849dfada3a65d7"
 
