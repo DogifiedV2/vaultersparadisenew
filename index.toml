@@ -1,30 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".idea/Client Pack.iml"
-hash = "c96ea0b5b29abb7d5807671dd208fd63f63694dd236335d2fe8c074e89e94aa6"
-
-[[files]]
-file = ".idea/discord.xml"
-hash = "d62c39cd8657b820b06f72acc0d5431dc7ec2fcd948b4e260c8c57f42ed882d8"
-
-[[files]]
-file = ".idea/misc.xml"
-hash = "237cd5fa2bb31599ff4e029dd564ad89c74392be6482a034f78bbfb40c485f98"
-
-[[files]]
-file = ".idea/modules.xml"
-hash = "f12ac573ee4e1aad2880a30c5196a533c2f7b6ea4497b65d4a7ecb6b327ec75d"
-
-[[files]]
-file = ".idea/vcs.xml"
-hash = "136f8b0a20e3e16f5b60e8505219c34746e1ec62c68433f4f8ec97eefe3aa038"
-
-[[files]]
-file = ".idea/workspace.xml"
-hash = "943fb371f87a94df272e693e6794c695fdce294bf01f23ac3b3108659ec4f5f0"
-
-[[files]]
 file = "config/ChunkyMcChunkFace-common.toml"
 hash = "41627432f0e10f723739019e20aeed2d3c09c77ef7fdd6b4e47c1772ab802412"
 
