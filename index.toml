@@ -14905,5 +14905,9 @@ file = "scripts/raw_smelting.zs"
 hash = "b416e4dd3d34d07a54b903beb1e49db0b42d9eedc811eeca48bfa09cdbc21e7b"
 
 [[files]]
+file = "servers.dat"
+hash = "a745c18bd7397195027daaf8d1b3b7e8a33cd5dc0d4bad1afb981e8a1664e7d0"
+
+[[files]]
 file = "vault_pickup_notifier.json"
 hash = "7b082cacad8c5328c11bad0ef88e147e1e90fff2d666da88d70b179c84a78065"
