@@ -14297,6 +14297,10 @@ file = "mods/supplementaries-1.18.2-1.5.18.jar"
 hash = "2ab0363daed627b9c8df5908cf89f9b61000ece499a6b6016f63206da17df384"
 
 [[files]]
+file = "mods/the_vault-1.18.2-3.20.0.jar"
+hash = "91da7f0f7671b098ec8df4db929473f9f5d10f987a9f2f17b1dec178d438d7f5"
+
+[[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
 hash = "958a2fed4ef2c0377c3dee905e1d06d3810306a06656b420f7fcc7a0986438c3"
 
