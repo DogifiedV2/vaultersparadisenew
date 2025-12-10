@@ -13066,7 +13066,7 @@ hash = "1a92313334f92551ca5d099970667e1c2dc750db702d7120917a82ef4ebfe987"
 
 [[files]]
 file = "config/the_vault/researches.json"
-hash = "946931c3b3c956cb21e695cc6f128e4127cf981beade9ba4aa2c0c0d76f925c8"
+hash = "a1a88fd8326e0c73bd627019503f7ada11a1f1026e681556d9588dcf779e18d4"
 
 [[files]]
 file = "config/the_vault/researches_groups.json"
@@ -13078,7 +13078,7 @@ hash = "af6ed09f5ba0407069b2c5971d9d41693c72982f20d73a42f37589e643ffc4f4"
 
 [[files]]
 file = "config/the_vault/researches_gui_styles.json"
-hash = "096b085627c1e90631e4161e3269608373dc54d7f64cac1a8f4862a467b7c0e2"
+hash = "a2974f8259fddfaab5f14fa3a5509553b11ff5dd1b38f477f4d9433b18220ee6"
 
 [[files]]
 file = "config/the_vault/royale_loot.json"
@@ -13278,7 +13278,7 @@ hash = "5057da8c4efc3d43f67d92e18216ad6564f043738fb9ceeaff318bb01675375b"
 
 [[files]]
 file = "config/the_vault/vault_general.json"
-hash = "831838c39789098f4922a0adbb7ce2ba550b3e09595f062f73cbaa31500822f7"
+hash = "c012735ca52b971ec08494f8a1c98d52630168d358191077b409f48c4a5ac0e2"
 
 [[files]]
 file = "config/the_vault/vault_greed_altar.json"
@@ -14235,6 +14235,10 @@ hash = "b06590edf24f91d655bb59f585950c11ef8c72c798b7d40dc6a4c16fbf2603a3"
 [[files]]
 file = "mods/serverconfigupdater-2.2.jar"
 hash = "0f981eabcc9a761f12782686aa0fcc16a209bea3675b3ae8c4d295694819a103"
+
+[[files]]
+file = "mods/serverportals-1.18.2-1.5.jar"
+hash = "e364a6b71f796386b3e3feef5bbee84bc6487d93496e4ff49bb71aae50bdd831"
 
 [[files]]
 file = "mods/shetiphiancore-forge-1.18.2-3.10.20.jar"
