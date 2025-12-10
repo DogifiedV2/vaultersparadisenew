@@ -13278,7 +13278,7 @@ hash = "5057da8c4efc3d43f67d92e18216ad6564f043738fb9ceeaff318bb01675375b"
 
 [[files]]
 file = "config/the_vault/vault_general.json"
-hash = "c012735ca52b971ec08494f8a1c98d52630168d358191077b409f48c4a5ac0e2"
+hash = "831838c39789098f4922a0adbb7ce2ba550b3e09595f062f73cbaa31500822f7"
 
 [[files]]
 file = "config/the_vault/vault_greed_altar.json"
