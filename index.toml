@@ -14181,6 +14181,10 @@ file = "mods/observable-2.2.3-forge.jar"
 hash = "ad69b183ce5cbbd710ff089f552769978542c5489353a3dcb75824b2d1dc9881"
 
 [[files]]
+file = "mods/oculus-mc1.18.2-1.6.4.jar"
+hash = "7731a22424f21f2637a6ad565c12d9b063bbefc4d516a292cb80d9e0ac9798ba"
+
+[[files]]
 file = "mods/open-parties-and-claims-forge-1.18.2-0.23.6.jar"
 hash = "72c19c08b9f2a2ea5fb85d111167831d8d62eb4615352eaf939e60cdab0f055d"
 
@@ -14907,6 +14911,14 @@ hash = "b416e4dd3d34d07a54b903beb1e49db0b42d9eedc811eeca48bfa09cdbc21e7b"
 [[files]]
 file = "servers.dat"
 hash = "a745c18bd7397195027daaf8d1b3b7e8a33cd5dc0d4bad1afb981e8a1664e7d0"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.3.zip"
+hash = "6e8234a2213c5a35238582d15dcc286584a029fbf42a993c1220188054799224"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.3.zip"
+hash = "66061b3c5b4843e31bc9a7562a7ac697a51bb77c73defc7071f996b783efacce"
 
 [[files]]
 file = "vault_pickup_notifier.json"
