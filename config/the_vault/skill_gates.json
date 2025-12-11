@@ -19,7 +19,7 @@
         "dependsOn": [{ "type": "constant", "id": "Parry" }],
         "lockedBy": []
       },
-      
+
       "Fire_Resistance": {
         "dependsOn": [{ "type": "constant", "id": "Water_Breathing" }],
         "lockedBy": []
@@ -147,11 +147,7 @@
       },
       "Automatic Genius": {
         "dependsOn": [
-          { "type": "constant", "id": "Colossal Chests" },
-          { "type": "constant", "id": "Simple Storage Network" },
-          { "type": "constant", "id": "Drawers" },
           { "type": "constant", "id": "Mekanism QIO" },
-          { "type": "constant", "id": "Refined Storage" },
           { "type": "constant", "id": "Applied Energistics" },
           { "type": "constant", "id": "Double Pouches" },
           { "type": "constant", "id": "Belts" },
@@ -183,8 +179,6 @@
           { "type": "constant", "id": "Weirding Gadgets" },
           { "type": "constant", "id": "Mining Gadgets" },
           { "type": "constant", "id": "Digital Miner" },
-          { "type": "constant", "id": "Easy Villagers" },
-          { "type": "constant", "id": "Easy Piglins" },
           { "type": "constant", "id": "Botany Pots" },
           { "type": "constant", "id": "SNAD" },
           { "type": "constant", "id": "Cagerium" },
@@ -194,7 +188,13 @@
           { "type": "constant", "id": "Mixtures" },
           { "type": "constant", "id": "Brews" },
           { "type": "constant", "id": "Entangled" },
-          { "type": "constant", "id": "Laser Bridges" }
+          { "type": "constant", "id": "Laser Bridges" },
+          { "type": "constant", "id": "Digital Waystones" },
+          { "type": "constant", "id": "Integrated Dynamics" },
+          { "type": "constant", "id": "Time in a Bottle" },
+          { "type": "constant", "id": "LaserIO" },
+          { "type": "constant", "id": "Create Crafts and Additions" },
+          { "type": "constant", "id": "Easy Traders" }
         ],
         "ignoreArrow": true,
         "lockedBy": []
@@ -202,9 +202,9 @@
       "Altar Automation": {
         "dependsOn": [
           { "type": "either", "gates": [
-              { "type": "constant", "id": "Refined Storage" },
-              { "type": "constant", "id": "Applied Energistics" }
-            ]
+            { "type": "constant", "id": "Refined Storage" },
+            { "type": "constant", "id": "Applied Energistics" }
+          ]
           }
         ],
         "ignoreArrow": true,

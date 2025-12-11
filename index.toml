@@ -13066,19 +13066,19 @@ hash = "1a92313334f92551ca5d099970667e1c2dc750db702d7120917a82ef4ebfe987"
 
 [[files]]
 file = "config/the_vault/researches.json"
-hash = "a1a88fd8326e0c73bd627019503f7ada11a1f1026e681556d9588dcf779e18d4"
+hash = "da39ccacf3e1f76801ae98b5c7d8a617d4c19071b5689e93c0e77821882406f3"
 
 [[files]]
 file = "config/the_vault/researches_groups.json"
-hash = "e5f317e51940be2c3950beac567a2f5855a63c0a7b25d94aad5feddba3ff82c4"
+hash = "6ffcde2652ff5b0137261dcb5c1f1e4ad6b7db9c85a360909008cbe04c526c25"
 
 [[files]]
 file = "config/the_vault/researches_groups_styles.json"
-hash = "af6ed09f5ba0407069b2c5971d9d41693c72982f20d73a42f37589e643ffc4f4"
+hash = "9ca8ddd2b367f783bf100448133ff0c03af33076851aebd78ab4bf35517a048b"
 
 [[files]]
 file = "config/the_vault/researches_gui_styles.json"
-hash = "a2974f8259fddfaab5f14fa3a5509553b11ff5dd1b38f477f4d9433b18220ee6"
+hash = "74a582223b83cca96ed426d8f656ad77e1375375578047fb8d5df8ee1e1fcb4b"
 
 [[files]]
 file = "config/the_vault/royale_loot.json"
@@ -13130,11 +13130,11 @@ hash = "9c4bfce4394d20d6ff58d706fb4ae4bbcc00cc4d3a888a8521facfe5d6a5d2a9"
 
 [[files]]
 file = "config/the_vault/skill_descriptions.json"
-hash = "95004175a06fefe250612960c053a4a370cb42942a8bbaa1c7a82bd68f4f634b"
+hash = "618b60c383e955668494089c98d2c611e691f29c731b1ac78daa4940c7ad5667"
 
 [[files]]
 file = "config/the_vault/skill_gates.json"
-hash = "9df830fa6d0be4b51187c940fcc9ed1da5032d9ec75e39d5d2f6d3b6e1a3d989"
+hash = "6598b39b4b02b2341ec8f14674067b47ad1128dd2a637ee21113256ddb96f8e3"
 
 [[files]]
 file = "config/the_vault/skill_scrolls.json"
@@ -14298,7 +14298,7 @@ hash = "2ab0363daed627b9c8df5908cf89f9b61000ece499a6b6016f63206da17df384"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.20.0.jar"
-hash = "3f5125d4912a5dd4744f2b6ca289352f27b6a305091274635d8695681c7f09e0"
+hash = "08cbbae5da742b6c6898ed051db74d1f11a8eecfa011a1c088f88846fde137cb"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"

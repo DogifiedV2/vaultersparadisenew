@@ -3,11 +3,7 @@
     "Storage": {
       "title": "Storage",
       "research": [
-        "Colossal Chests",
-        "Simple Storage Network",
-        "Refined Storage",
         "Applied Energistics",
-        "Drawers",
         "Mekanism QIO"
       ],
       "globalCostIncrease": 0.0,
@@ -33,12 +29,11 @@
     "Production": {
       "title": "Production",
       "research": [
-        "Easy Villagers",
+        "Easy Traders",
         "SNAD",
         "Cagerium",
         "Mob Spawners",
         "Phytogenic Insulator",
-        "Easy Piglins",
         "Botany Pots"
       ],
       "globalCostIncrease": 0.0,
@@ -52,7 +47,8 @@
         "Create",
         "Mekanism",
         "Thermal Expansion",
-        "Botania"
+        "Botania",
+        "Integrated Dynamics"
       ],
       "globalCostIncrease": 0.0,
       "groupCostIncrease": {
@@ -107,20 +103,33 @@
         "Looting": 2.0
       }
     },
+    "Addons": {
+      "title": "Addons",
+      "research": [
+        "Create Crafts and Additions",
+        "Time in a Bottle",
+        "Digital Waystones"
+      ],
+      "globalCostIncrease": 0.0,
+      "groupCostIncrease": {
+        "Addons": 1
+      }
+    },
     "Handling": {
-        "title": "Handling",
-        "research": [
-          "Xnet",
-          "Modular Routers",
-          "Pipez",
-          "Iron Furnaces",
-          "Dark Utilities",
-          "Vault Filters"
-        ],
-        "globalCostIncrease": 0.0,
-        "groupCostIncrease": {
-          "Handling": 5.0
-        }
+      "title": "Handling",
+      "research": [
+        "Xnet",
+        "Modular Routers",
+        "Pipez",
+        "Iron Furnaces",
+        "Dark Utilities",
+        "Vault Filters",
+        "LaserIO"
+      ],
+      "globalCostIncrease": 0.0,
+      "groupCostIncrease": {
+        "Handling": 5.0
+      }
     },
     "Alchemy": {
       "title": "Vault Upgrades",
@@ -137,6 +146,6 @@
       "groupCostIncrease": {
         "Alchemy": 4.0
       }
-  }
+    }
   }
 }

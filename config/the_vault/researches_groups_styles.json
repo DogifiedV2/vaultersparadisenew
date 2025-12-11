@@ -1,5 +1,15 @@
 {
   "groupStyles": {
+    "Addons": {
+      "group": "Addons",
+      "headerColor": -3224324,
+      "headerTextColor": -1,
+      "x": 560,
+      "y": -25,
+      "boxWidth": 170,
+      "boxHeight": 145,
+      "icon": "the_vault:gui/research_groups/addons"
+    },
     "Storage": {
       "group": "Storage",
       "headerColor": -10758712,
