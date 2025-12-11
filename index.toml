@@ -13921,8 +13921,8 @@ file = "mods/bdlib-1.19.3.7-mc1.18.2.jar"
 hash = "3ce4d0bdeabcffc6c7551a00e13ce925a498e08ee2747b6cc84d6e01fe25fe49"
 
 [[files]]
-file = "mods/blockcarpentry-1.18-0.5.2.jar"
-hash = "d285822a5f9cb9d8ce663a599e6df88347203092eb19a03216277a60b6152013"
+file = "mods/blockcarpentry-1.18-0.3.0.jar"
+hash = "8348730a945089a00abb4616caf39954ec6f4e3d3058fd66e2523a4aa6506631"
 
 [[files]]
 file = "mods/buildinggadgets-3.13.2-build.21+mc1.18.2.jar"
