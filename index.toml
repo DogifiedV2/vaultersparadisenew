@@ -14049,6 +14049,10 @@ file = "mods/fancymenu_forge_3.7.0_MC_1.18.2.jar"
 hash = "c2be295a8a5c2062563a36ed836e5af6085571294004a48258773c7e9dfc0530"
 
 [[files]]
+file = "mods/farsight-1.18.2-1.9.jar"
+hash = "849aa4d60fd942347c19b7978941558d9f37a4ec86b128f4d8e6a6acdfd5a511"
+
+[[files]]
 file = "mods/ferritecore-4.2.2-forge.jar"
 hash = "f8bf79f6eb2e31dc1e347697c18effdc87ac9d1c7e7060c50ffdef3ad41da139"
 
@@ -14339,6 +14343,10 @@ hash = "2e32ed64ff9e7a452ddc4498ed3c25cf92094d0f081cdecac3625608dbe434e2"
 [[files]]
 file = "mods/vaultintegrations-1.18.2-1.0.16.jar"
 hash = "cd3ea5cf09514aad1f5f7dbf32ba6fe9089848ba90b5912a45b91ae7c8ed9d99"
+
+[[files]]
+file = "mods/vhatcaniroll-1.13.0.jar"
+hash = "c7088cc354e5c394852ca314134d63b4c08e485734d8fb956d0ea18e7a590ea7"
 
 [[files]]
 file = "mods/voicechat-forge-1.18.2-2.6.5.jar"
