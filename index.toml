@@ -13518,7 +13518,7 @@ hash = "bac016e1e35444e70e96f6cbddd6cb8ebf8dd0504975a088b0f838179d64aac2"
 
 [[files]]
 file = "defaultconfigs/curios-server.toml"
-hash = "0d0629b38a333550488fca563ff4b799d28191a591100c1fd9bd9117b802ad71"
+hash = "aea98bcbfeea6f10e298a13367238c96d7d82bd699b9de10b8b1453823902c0e"
 
 [[files]]
 file = "defaultconfigs/fluxnetworks-server.toml"
@@ -14310,7 +14310,7 @@ hash = "2ab0363daed627b9c8df5908cf89f9b61000ece499a6b6016f63206da17df384"
 
 [[files]]
 file = "mods/the_vault-1.18.2-3.20.1.jar"
-hash = "440ef41feba02e8f685e2d5cbe9b027c3322083916e618f9faa7386866b0c516"
+hash = "d1beb167aae351051e9d0c337d861492f007530da752eade74e65589edce06a5"
 
 [[files]]
 file = "mods/thermal_expansion-1.18.2-9.2.2.24.jar"
