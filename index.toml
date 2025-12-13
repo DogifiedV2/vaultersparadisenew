@@ -13565,6 +13565,14 @@ file = "kubejs/assets/decocraft/lang/en_us.json"
 hash = "78bb04633cd233d130b3a970e3ed2c712c9cf706c6e9e454c813ec81326943d1"
 
 [[files]]
+file = "kubejs/assets/the_vault/gui/slot/curios/coinpouch.png"
+hash = "dfeafe7ec8c70ec5038556d9b83fb5d3cc0cef7ae513cb72465f14102f54943d"
+
+[[files]]
+file = "kubejs/assets/the_vault/gui/slot/curios/shard.png"
+hash = "4279f08dfa10057c0003b7e7bd3b717a7e19c00d5375b9a87e7f8783540324a1"
+
+[[files]]
 file = "kubejs/assets/the_vault/lang/en_us.json"
 hash = "a4d1d9000f860f40ca455f87297a25cc3317c0bccf311fbeb91643f921e88ae8"
 
