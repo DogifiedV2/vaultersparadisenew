@@ -10,7 +10,7 @@
         { "weight": 1,
           "pool": [
             {
-              "weight": 400,
+              "weight": 1400,
               "item": {
                 "id": "minecraft:air",
                 "count": {
